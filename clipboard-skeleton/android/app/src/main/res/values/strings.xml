@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clipboard Skeleton</string>
+    <string name="title_activity_main">Clipboard Skeleton</string>
+    <string name="package_name">com.clipboard.skeleton</string>
+    <string name="custom_url_scheme">com.clipboard.skeleton</string>
+    <string name="accessibility_service_description">Monitors clipboard to save copied text for easy access later. This service runs in the background to capture any text you copy from any app.</string>
+</resources>
